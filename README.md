@@ -1,6 +1,6 @@
 # GSB_BDD
 Créer la bdd -> gsb_frais
-Base de donnée de GSB avec l'utilisateur à ajouter.
+Base de donnée de GSB et importer le Script fourni.
 
 -----------------
 # Utilisateur à ajouter :
