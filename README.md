@@ -1,7 +1,6 @@
 # GSB_BDD
 ## De la recherche, au développement.
-Créer la bdd -> gsb_frais
-Base de donnée de GSB et importer le Script fourni.
+Créer la bdd -> gsb_frais et importer le Script fourni.
 
 -----------------
 # Utilisateur à ajouter :
